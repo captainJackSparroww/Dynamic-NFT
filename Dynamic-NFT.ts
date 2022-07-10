@@ -3,8 +3,6 @@ const AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiMmU4Nzd
 const revise = new Revise({auth: AUTH_TOKEN});
 
 async function run() {
-
-	// write your code here
     const res = await revise.addCollection({name: 'revnft', uri: 'revnft'});
     console.log(res);
 
