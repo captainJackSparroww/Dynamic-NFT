@@ -1,8 +1,8 @@
 { 
-    "description": "This NFT proves I've created and deployed my first ERC721 smart contract on Rinkeby with Alchemy Road to Web3",
+    "description": "This NFT proves I've created and deployed my first ERC721 smart contract on Rinkeby",
     "external_url": "Alchemy.com",
     "image": "https://ipfs.filebase.io/ipfs/bafybeihyvhgbcov2nmvbnveunoodokme5eb42uekrqowxdennt2qyeculm",
-    "name": "A Cool NFT Sharath Guvvala", 
+    "name": "A Dynamic NFT", 
     "attributes": [
       {
         "trait_type": "Coolness", 
@@ -10,7 +10,7 @@
       }, 
       {
         "trait_type": "Website", 
-        "value": "Alchemy.com"
+        "value": "revise"
       }, 
       {
         "trait_type": "Token Standard", 
